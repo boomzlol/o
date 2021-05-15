@@ -1,0 +1,28 @@
+{
+  "name": "starter-discord.js-bot",
+  "version": "1.0.0",
+  "description": "A Simple Advanced Discord.js Starter Bot template with a good Handler with alliases and with a awesome help command!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PikaDevelopment/Starter-Discord.js-Bot.git"
+  },
+  "keywords": [
+    "Starter",
+    "Discordjs",
+    "Bot"
+  ],
+  "author": "PikaDevelopment",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/PikaDevelopment/Starter-Discord.js-Bot/issues"
+  },
+  "homepage": "https://github.com/PikaDevelopment/Starter-Discord.js-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
